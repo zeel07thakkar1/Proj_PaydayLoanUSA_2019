@@ -1,0 +1,85 @@
+.bg
+{
+	background-color: #8bc34ab3 !important;
+	/* background-color:#213970 !important;
+	 */
+
+}
+.btn_clr
+{
+	background-color: #8bc34ab3 !important;
+	color: #213970 !important;
+
+}
+.clr
+{
+	color: #213970 !important;
+	font-weight: bold !important;
+}
+.get_started_form
+{
+	background-color: #7caf59 !important;
+}
+.btn_navy
+{
+	background-color:  #213970 !important;
+}
+.bg_navy
+{
+	background-color: #213970 !important;
+}
+.font_yellow
+{
+	color: #fecb46 !important;
+	text-align: center;
+}
+.border_clr
+{
+	border: 3px solid #213970 !important ;
+}
+.navy_brder_btn
+{
+	border: 3px solid #213970 !important ;
+	color: #7caf59 !important;
+}
+.text_white
+{
+	color: white !important;
+}
+.footer_clr
+{
+	background-color: #a5a3a3 !important;
+
+}
+.footer_clr a
+{
+	color: #213970 !important ;
+	font-weight: bold !important;
+}
+.footer_clr a:hover
+{
+	color: white !important ;
+	font-weight: bold !important;
+}
+.text_navy
+{
+	color: #213970 !important;
+	font-weight: bold !important;
+}
+.padding_btm
+{
+  padding-bottom: 10px !important;
+}
+.btn_center 
+{
+	margin: 0px auto;
+}
+.why_apply
+{
+	background-image: url(loan_img.jpg) !important;
+	background-repeat: no-repeat;
+}
+.help_too
+{
+	background-image: url('easy_loan.png') !important;
+}

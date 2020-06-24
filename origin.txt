@@ -1,0 +1,492 @@
+Uri: https://uplenders.com/
+File Name: c:\Downloaded Web Sites\uplenders.com\index.htm
+Content Type: text/html
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/home/backgrounds/default.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\home\backgrounds\default.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/home/backgrounds/default-xs.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\home\backgrounds\default-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/favicons/favicon.png?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\favicons\favicon.png
+Content Type: image/png
+
+Uri: https://uplenders.com/images/favicons/favicon-lg.png?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\favicons\favicon-lg.png
+Content Type: image/png
+
+Uri: https://uplenders.com/dist/bootstrap/bootstrap.min.css?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://uplenders.com/dist/slideNav/jasny-bootstrap.min.css?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\slideNav\jasny-bootstrap.min.css
+Content Type: text/css
+
+Uri: https://uplenders.com/dist/slideNav/navmenu-reveal.css?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\slideNav\navmenu-reveal.css
+Content Type: text/css
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/dist/select2/select2.css?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\dist\select2\select2.css
+Content Type: text/css
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/css/style.min.css?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\css\style.min.css
+Content Type: text/css
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/dist/iCheck/flat/flat.css?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\dist\iCheck\flat\flat.css
+Content Type: text/css
+
+Uri: https://uplenders.com/apply
+File Name: c:\Downloaded Web Sites\uplenders.com\apply.html
+Content Type: text/html
+
+Uri: https://uplenders.com/login
+File Name: c:\Downloaded Web Sites\uplenders.com\login.html
+Content Type: text/html
+
+Uri: https://uplenders.com/about-us
+File Name: c:\Downloaded Web Sites\uplenders.com\about-us.html
+Content Type: text/html
+
+Uri: https://uplenders.com/how-it-works
+File Name: c:\Downloaded Web Sites\uplenders.com\how-it-works.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources
+File Name: c:\Downloaded Web Sites\uplenders.com\resources.html
+Content Type: text/html
+
+Uri: https://uplenders.com/unsubscribe
+File Name: c:\Downloaded Web Sites\uplenders.com\unsubscribe.html
+Content Type: text/html
+
+Uri: https://uplenders.com/privacy-policy
+File Name: c:\Downloaded Web Sites\uplenders.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://uplenders.com/terms
+File Name: c:\Downloaded Web Sites\uplenders.com\terms.html
+Content Type: text/html
+
+Uri: https://uplenders.com/lending-policy
+File Name: c:\Downloaded Web Sites\uplenders.com\lending-policy.html
+Content Type: text/html
+
+Uri: https://uplenders.com/sms
+File Name: c:\Downloaded Web Sites\uplenders.com\sms.html
+Content Type: text/html
+
+Uri: https://uplenders.com/disclaimer
+File Name: c:\Downloaded Web Sites\uplenders.com\disclaimer.html
+Content Type: text/html
+
+Uri: https://uplenders.com/rates-and-fees
+File Name: c:\Downloaded Web Sites\uplenders.com\rates-and-fees.html
+Content Type: text/html
+
+Uri: https://uplenders.com/faq
+File Name: c:\Downloaded Web Sites\uplenders.com\faq.html
+Content Type: text/html
+
+Uri: https://uplenders.com/dist/bug-snag/bugsnag-3.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\bug-snag\bugsnag-3.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/icons/person-purple.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\icons\person-purple.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/images/Uplenders.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\Uplenders.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/images/Uplenders2.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\Uplenders2.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/header/menuIconWhite.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\header\menuIconWhite.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/icons/lock-white.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\icons\lock-white.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/icons/person-white.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\icons\person-white.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/icons/arrowDown.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\icons\arrowDown.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/home/apply.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\home\apply.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/home/approval.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\home\approval.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/home/account.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\home\account.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/icons/quote.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\icons\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/icons/arrowLeft.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\icons\arrowLeft.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/icons/arrowRight.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\icons\arrowRight.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/dist/jquery/jquery.mobile.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\jquery\jquery.mobile.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/iCheck/icheck.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\iCheck\icheck.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/bootstrap/bootstrap.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\bootstrap\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/slideNav/jasny-bootstrap.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\slideNav\jasny-bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/select2/select2.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/jquery-placeholder/jquery-placeholder.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\jquery-placeholder\jquery-placeholder.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/H5F/h5f.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\H5F\h5f.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/form_components/type-number-max.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\form_components\type-number-max.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/bowser/bowser.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\bowser\bowser.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/svgeezy/svgeezy.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\svgeezy\svgeezy.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/animation.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\animation.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/form_components/cookie/leadcookie.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\form_components\cookie\leadcookie.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/form_components/cookie/common.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\form_components\cookie\common.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/fonts/glyphicons-halflings-regular.eot
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uplenders.com/dist/fonts/glyphicons-halflings-regular.eot?
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://uplenders.com/dist/fonts/glyphicons-halflings-regular.woff2
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\fonts\glyphicons-halflings-regular.bin
+Content Type: application/octet-stream
+
+Uri: https://uplenders.com/dist/fonts/glyphicons-halflings-regular.woff
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://uplenders.com/dist/fonts/glyphicons-halflings-regular.ttf
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\fonts\glyphicons-halflings-regular-1.bin
+Content Type: application/octet-stream
+
+Uri: https://uplenders.com/dist/fonts/glyphicons-halflings-regular.svg
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/dist/ie-support/PIE.htc
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\ie-support\PIE.htc
+Content Type: text/x-component
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/header/menuIconWhite.svg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\header\menuIconWhite-1.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/header/x.svg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\header\x.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/cta/phone.png
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\cta\phone.png
+Content Type: image/png
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/icons/checkMark.svg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\icons\checkMark.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/icons/mdash.svg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\icons\mdash.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/home/mid-image-xs.jpg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\home\mid-image-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/rates/usa-map.svg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\rates\usa-map.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/signup/mob-header-img.jpg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\signup\mob-header-img.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/signup/mob-header-finished.jpg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\signup\mob-header-finished.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/signup/helper-img.jpg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\signup\helper-img.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/header/menuIcon.svg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\header\menuIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/home/mid-image.jpg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\home\mid-image.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/signup/complete-img.jpg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\signup\complete-img.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/home/mid-image-md.jpg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\home\mid-image-md.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/icons/person-white.svg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\icons\person-white-1.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/verticals/PaydayUS/template20/images/home/mid-image-lg.jpg
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\template20\images\home\mid-image-lg.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/dist/iCheck/flat/flat.png
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\dist\iCheck\flat\flat.png
+Content Type: image/png
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/dist/iCheck/flat/flat@2x.png
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\dist\iCheck\flat\flat@2x.png
+Content Type: image/png
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/dist/datePicker/bootstrap-datepicker3.css?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\dist\datePicker\bootstrap-datepicker3.css
+Content Type: text/css
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/icons/lock-light.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\icons\lock-light.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/dist/jquery-mask/jquery-mask.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\jquery-mask\jquery-mask.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/material/material.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\material\material.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/form_components/form-step-control.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\form_components\form-step-control.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/form_components/help-text.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\form_components\help-text.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/validator/validator.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\validator\validator.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/pagination_control.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\pagination_control.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/bowser/bowser.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\bowser\bowser.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/datePicker/bootstrap-datepicker.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\datePicker\bootstrap-datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/moment/moment.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\moment\moment.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/form_components/date-control.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\form_components\date-control.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/form_components/pay-date-picker-2.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\form_components\pay-date-picker-2.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/get_state.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\get_state.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/format_phone.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\format_phone.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/form_components/multi-select2-date-picker.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\form_components\multi-select2-date-picker.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/images/icons/loading.svg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\images\icons\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://uplenders.com/resources/1/are-short-term-loans-worth-considering-in-an-emergency
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\1\are-short-term-loans-worth-considering-in-an-emergency.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/2/how-to-ensure-financial-success-after-graduation
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\2\how-to-ensure-financial-success-after-graduation.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/3/4-steps-to-a-brighter-financial-future
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\3\4-steps-to-a-brighter-financial-future.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/4/how-does-credit-score-affect-your-life
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\4\how-does-credit-score-affect-your-life.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/5/how-to-build-great-credit-score
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\5\how-to-build-great-credit-score.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/6/who-takes-short-term-loans-and-why
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\6\who-takes-short-term-loans-and-why.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/7/how-to-save-money-when-you’re-in-debt
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\7\how-to-save-money-when-you’re-in-debt.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/8/how-to-get-the-most-out-of-short-term-loans
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\8\how-to-get-the-most-out-of-short-term-loans.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/9/get-short-term-loans-with-bad-or-no-credit
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\9\get-short-term-loans-with-bad-or-no-credit.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/10/getting-approved-for-a-short-term-loan
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\10\getting-approved-for-a-short-term-loan.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/11/avoid-scams-in-the-short-term-loan-industry
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\11\avoid-scams-in-the-short-term-loan-industry.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/12/are-short-term-loans-better-than-other-forms-of-credit
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\12\are-short-term-loans-better-than-other-forms-of-credit.html
+Content Type: text/html
+
+Uri: https://uplenders.com/images/resources/1.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\1.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/2.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\2.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/3.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\3.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/4.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\4.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/5.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\5.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/6.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\6.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/7.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\7.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/8.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\8.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/9.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\9.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/10.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\10.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/11.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\11.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/images/resources/12.jpg?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\images\resources\12.jpg
+Content Type: image/jpeg
+
+Uri: https://uplenders.com/dist/succinct/succinct.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\succinct\succinct.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/verticals/PaydayUS/loansmode/dist/sweet-alert/sweetalert.min.css?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\verticals\PaydayUS\loansmode\dist\sweet-alert\sweetalert.min.css
+Content Type: text/css
+
+Uri: https://uplenders.com/dist/sweet-alert/sweetalert.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\sweet-alert\sweetalert.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/dist/format_email.min.js?v=2d369396ac36b32d85ede2a60e88044800c7b412
+File Name: c:\Downloaded Web Sites\uplenders.com\dist\format_email.min.js
+Content Type: application/javascript
+
+Uri: https://uplenders.com/resources/11
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\11.html
+Content Type: text/html
+
+Uri: https://uplenders.com/resources/5
+File Name: c:\Downloaded Web Sites\uplenders.com\resources\5.html
+Content Type: text/html
+
